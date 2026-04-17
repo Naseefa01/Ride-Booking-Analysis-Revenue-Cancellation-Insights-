@@ -1,20 +1,20 @@
-## Ride Booking Cancellation Analysis (SQL + Power BI)
+# Ride Booking Cancellation Analysis (SQL + Power BI)
 
-# Problem Statement
+## Problem Statement
 
 Ride-booking companies often face issues like ride cancellations, revenue fluctuations, and uneven demand across vehicle types.
 This project aims to analyze booking data to identify key factors affecting revenue, cancellations, and customer behavior.
 
 ---
 
-# Project Overview
+## Project Overview
 
 This project analyzes ride booking data using SQL and Power BI to uncover insights related to bookings and cancellations.
 An interactive dashboard was built to help understand operational challenges and improve decision-making.
 
 ---
 
-# Objectives
+## Objectives
 
 - Analyze total bookings status
 - Identify major reasons for ride cancellations
@@ -23,14 +23,14 @@ An interactive dashboard was built to help understand operational challenges and
   
 ---
 
-# Tools & Technologies Used
+## Tools & Technologies Used
 
 - SQL – Data cleaning and analysis
 - Power BI – Data visualization and dashboard creation
 
 ---
 
-# Key Metrics
+## Key Metrics
 
 - Total Bookings: 150000
 - Total Succesful Rides: 93000
@@ -40,7 +40,7 @@ An interactive dashboard was built to help understand operational challenges and
 
 ---
 
-# Key Features of Dashboard
+## Key Features of Dashboard
 
 -  Vehicle Type-wise Bookings
 -  Booking Trends (Line Chart)
@@ -51,7 +51,7 @@ An interactive dashboard was built to help understand operational challenges and
 
 ---
 
-# Cancellation Analysis (Important Insight)
+## Cancellation Analysis (Important Insight)
 
 - A significant number of bookings were cancelled
 - Driver Cancellation is one of the major reasons
@@ -61,7 +61,7 @@ This indicates operational inefficiencies and highlights the need for better dri
 
 ---
 
-# Key Insights
+## Key Insights
 
 - A significant number of rides are cancelled, affecting overall serivce efficiency
 - Driver cancellations are the primary reason for ride failures
@@ -72,7 +72,7 @@ This indicates operational inefficiencies and highlights the need for better dri
 
 ---
 
-# Project Structure
+## Project Structure
 
 - dataset/ → Raw dataset (Kaggle)
 - sql/ → SQL queries
@@ -81,20 +81,20 @@ This indicates operational inefficiencies and highlights the need for better dri
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
 ![Ride booking Dashboard]("C:\Users\nasee\OneDrive\Ride_Booings_Project\Dashboard_Screenshot.png")
 
 ---
 
-# Conclusion
+## Conclusion
 
 This project highlights how ride booking data can be used to identify customer preferences, and major operational issues like cancellations.
 The insights can help businesses reduce cancellations and improve overall efficiency.
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 -Improve driver availability to reduce cancellations
 -Implement better ride allocation strategies to minimize driver rejections
